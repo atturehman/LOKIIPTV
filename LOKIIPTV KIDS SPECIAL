@@ -1,0 +1,25 @@
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Join us on Telegram @LOKIIPTV" tvg-logo="https://i.ibb.co/PjvGwn5/loki-logo.png" group-title="Join us on Telegram @LOKIIPTV",Join us on Telegram ‘ @LOKIIPTV
+https://t.me/LOKIIPTV
+
+#EXTINF:-1 tvg-id="03" group-title="LOKIIPTV KIDS Special" tvg-logo="https://i.ibb.co/PjvGwn5/loki-logo.png",Hungama tv
+http://103.179.246.243:8000/play/a01x
+#EXTINF:-1 tvg-id="23" group-title="LOKIIPTV KIDS Special" tvg-logo="https://i.ibb.co/PjvGwn5/loki-logo.png",Super Hungama
+http://103.179.246.243:8000/play/a05p
+#EXTINF:-1 tvg-id="22" group-title="LOKIIPTV KIDS Special " tvg-logo="https://i.ibb.co/PjvGwn5/loki-logo.png",Pogo
+http://103.179.246.243:8000/play/a022
+#EXTINF:-1 tvg-id="21" group-title="LOKIIPTV KIDS Special" tvg-logo="https://i.ibb.co/PjvGwn5/loki-logo.png",Nick jr
+http://103.179.246.243:8000/play/a023
+#EXTINF:-1 tvg-id="20" group-title="LOKIIPTV KIDS Special" tvg-logo="https://i.ibb.co/PjvGwn5/loki-logo.png",Khushi tv
+http://103.179.246.243:8000/play/a05g
+#EXTINF:-1 tvg-id="19" group-title="LOKIIPTV KIDS Special" tvg-logo="https://i.ibb.co/PjvGwn5/loki-logo.png",Disney junior
+http://103.179.246.243:8000/play/a020
+#EXTINF:-1 tvg-id="02" group-title="LOKIIPTV KIDS Special " tvg-logo="https://i.ibb.co/PjvGwn5/loki-logo.png",Disney channel
+http://103.179.246.243:8000/play/a01y
+#EXTINF:-1 tvg-id="01" group-title="LOKIIPTV KIDS Special " tvg-logo="https://i.ibb.co/PjvGwn5/loki-logo.png",Cartoon network
+http://103.179.246.243:8000/play/a01w
+#EXTINF:-1 tvg-id="18" group-title="LOKIIPTV KIDS Special" tvg-logo="https://i.ibb.co/PjvGwn5/loki-logo.png",Chintu tv
+http://103.179.246.243:8000/play/a056
+#EXTINF:-1 tvg-id="17" group-title="LOKIIPTV KIDS Special" tvg-logo="https://i.ibb.co/PjvGwn5/loki-logo.png",Nick hd
+http://103.179.246.243:8000/play/a01c
